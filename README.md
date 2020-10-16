@@ -14,8 +14,8 @@
 
 #### 截图
 
-![cron](assets/cron1.png)
-![cron](assets/cron2.png)
-![cron](assets/cron3.png)
-![cron](assets/cron4.png)
-![cron](assets/cron5.png)
+![cron](src/assets/cron1.png)
+![cron](src/assets/cron2.png)
+![cron](src/assets/cron3.png)
+![cron](src/assets/cron4.png)
+![cron](src/assets/cron5.png)
